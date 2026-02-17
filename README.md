@@ -1,0 +1,1 @@
+# SmartWaste-Serverless-Smart-Waste-Management-Platform-AWS-
